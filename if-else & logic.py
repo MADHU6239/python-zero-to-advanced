@@ -1,4 +1,4 @@
-# Day 2 - Input, If-Else, Logic
+# Day 2 
 
 # Taking input
 name = input("Enter your name: ")
