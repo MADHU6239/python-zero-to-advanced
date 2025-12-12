@@ -1,4 +1,4 @@
-# Day 1 - Python Basics
+# Day 1 
 
 # Printing text
 print("Hello, Madhu!")
